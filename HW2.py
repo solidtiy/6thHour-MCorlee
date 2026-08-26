@@ -42,4 +42,4 @@ intVar25 = 6
 
 #3. Take all the variables you labeled as "integer", add them together, and print the result.
 
-print(50)
+print(intVar1 + intVar6 + intVar8 +intVar13 + intVar17 + intVar18 + intVar19 + intVar25)
