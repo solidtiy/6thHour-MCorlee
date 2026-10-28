@@ -31,6 +31,8 @@ else:
 
 if B>3 and B<7:
     print("B is between 3 and 7")
+else:
+    print("B is not between 3 and 7")
 
 #6. Make an if statement that prints if variable C is even or odd.
 
